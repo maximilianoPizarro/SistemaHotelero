@@ -1,0 +1,12 @@
+Diagrama de Casos de Uso(Recepcionista):Gestión de las tareas de las mucamas
+
+Asignar mucama: Lista las habitaciones por pantalla y asigna una mucama por cada habitacion
+		que necesite limpieza.
+
+Confirmar limpieza: Lista las habitaciones asignadas y confirma las que se limpiaron.
+		    Se guarda el registro de limpieza en la base de datos.
+
+Informar Desperfecto: A tal fin se generan partes de reparaciòn indicando la fecha de origen,
+		     la fecha de resolución, el desperfecto, la persona encargada de
+		     solucionarlo y un informe de las acciones tomadas para ello.
+

@@ -1,0 +1,37 @@
+Reunion:{personal, virtual}
+Integrantes:{nombre-estado{aprobado-pendiente-desaprobado}}
+Fecha:{}
+Descripcion:{}
+Decision:{}
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: personal
+Integrantes:
+	Nicolas-Aprobado
+	Maximiliano-Aprobado
+Fecha:16/8/2016
+Descripcion:Metodologia de trabajo
+Decision: Se utilizará la herramienta kanboard como metodología de trabajo para resolver el 
+	Sistema, el paradigma de objetos para el diseño y programación, java como lenguaje 
+	de programación y github como control de versiones. Mysql como motor de base de datos.
+	se adjunta bitacora en .txt para describir las reuniones.
+
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: personal
+Integrantes:
+	Nicolas-Aprobado
+	Maximiliano-Aprobado
+Fecha:23/8/2016
+Descripcion:Diagrama de Casos de Uso
+Decision: Se realizo los diagramas de casos de uso junto con txt con referencia a los requerimientos de
+	 la gestion de mucama y la gestion del administrador del sistema. Para la proxima reunion se 
+	 tratara la gestion de la estadia.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,14 @@
+Diagrama de Casos de Uso(administrador):
+
+ABM Servicio: Da de alta, modifica y elimina servicios del hotel.
+
+ABM Empleados: Da de alta, modifica y elimina empleados del hotel.
+
+Gestionar Ofertas: genera una oferta por un lapso de tiempo que el mismo define
+		   agregando un porcentaje de descuento ya sea para un servicio o para 
+		   estadia a reservar.
+
+Ver estadisticas: Porcentaje de Ocupación
+		  Total cobranzas
+		  Total cobranzas por estadía
+		  Total cobranzas por medio de pago
